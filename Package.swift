@@ -19,8 +19,8 @@ let package = Package(
             from: "3.0.0"
         ),
         .package(
-            url: "https://github.com/exyte/ActivityIndicatorView",
-            from: "1.0.0"
+            url: "https://github.com/plu/ActivityIndicatorView",
+            branch: "master"
         ),
         .package(
            url: "https://github.com/Giphy/giphy-ios-sdk",
